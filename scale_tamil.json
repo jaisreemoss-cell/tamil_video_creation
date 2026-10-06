@@ -1,0 +1,28 @@
+{
+  "subject": "Traditional women in saree and dhotis lighting oil lamps and creating intricate flower kolams during a diwali festive celebration by a water body",
+  "setting": {
+    "place": "Ancient Tamilakam village temple tank and traditional stone architecture with thatched roofs and palm trees",
+    "era": "Classical Sangam era",
+    "time_of_day": "Night"
+  },
+  "lighting": "Warm, flickering glow from hundreds of terracotta oil lamps, torches, and soft moonlight reflecting on the water",
+  "camera": {
+    "shot": "Wide cinematic shot",
+    "lens": "35mm anamorphic lens",
+    "angle": "Eye-level medium wide angle"
+  },
+  "palette": [
+    "Deep indigo night blue",
+    "Warm flame amber and gold",
+    "Earthy stone terracotta"
+  ],
+  "style": "Cinematic historical realism, highly detailed digital painting with rich textures and dramatic chiaroscuro lighting",
+  "duration": "5 seconds",
+  "aspect_ratio": "16:9",
+  "avoid": [
+    "modern elements",
+    "electric lighting",
+    "blurry details",
+    "oversaturated digital glow"
+  ]
+}
